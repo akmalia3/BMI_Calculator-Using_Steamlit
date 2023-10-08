@@ -7,7 +7,7 @@ The BMI Calculator is a simple command-line tool that calculates your Body Mass 
 Try BMI Calcolator in here:
 [BMI Calculator](https://bmicalculator-usingsteamlit-ygum7pxbgxdttsmevxv3mc.streamlit.app/)
 
-## Screnshoot\
+## Screenshot
 <img width="960" alt="Screenshot 2023-10-08 211732" src="https://github.com/akmalia3/BMI_Calculator-Using_Steamlit/assets/101547800/c19ad136-7850-420c-ac75-4d084d9cee0c">
 
 <img width="960" alt="Screenshot 2023-10-08 211702" src="https://github.com/akmalia3/BMI_Calculator-Using_Steamlit/assets/101547800/1d19fc44-665d-464b-a9fb-872b232751b4">
